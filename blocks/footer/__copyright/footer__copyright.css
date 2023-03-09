@@ -3,13 +3,11 @@
   font-weight: 400;
   font-size: 14px;
   line-height: 16px;
-  flex-basis: 100%;
-  text-align: end;
 }
 
 @media screen and (max-width:720px) {
   .footer__copyright {
-    margin-top: 16px;
+    margin-top: 48px;
     text-align: start;
   }
 }

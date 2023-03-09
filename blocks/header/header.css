@@ -1,7 +1,8 @@
 .header {
-  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
   padding: 28px 48px 0;
-  height: 52px;
 }
 
 @media screen and (max-width:768px) {
