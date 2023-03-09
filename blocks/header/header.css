@@ -1,0 +1,17 @@
+.header {
+  position: relative;
+  padding: 28px 48px 0;
+  height: 52px;
+}
+
+@media screen and (max-width:768px) {
+  .header {
+    padding: 28px 24px 0;
+  }
+}
+
+@media screen and (max-width:500px) {
+  .header {
+    padding: 16px 16px 0;
+  }
+}

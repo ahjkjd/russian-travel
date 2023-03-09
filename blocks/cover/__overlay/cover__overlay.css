@@ -1,0 +1,5 @@
+.cover__overlay {
+  margin: auto;
+  text-align: center;
+  z-index: 1;
+}

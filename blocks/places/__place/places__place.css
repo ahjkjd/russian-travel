@@ -1,0 +1,15 @@
+.places__place:not(:last-of-type) {
+  margin-bottom: 80px;
+}
+
+@media screen and (max-width:768px) {
+  .places__place:not(:last-of-type) {
+    margin-bottom: 73px;
+  }
+}
+
+@media screen and (max-width:500px) {
+  .places__place:not(:last-of-type) {
+    margin-bottom: 50px;
+  }
+}
